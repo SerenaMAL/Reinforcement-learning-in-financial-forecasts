@@ -1,6 +1,6 @@
 rm(list=ls()); graphics.off(); cat("\014")
 
-setwd("C:/Users/Antonio Candelieri/OneDrive - Universita degli Studi di Milano-Bicocca/00. DIDATTICA/_Tesisti")
+setwd()
 
 library(arules)
 library(readxl)
